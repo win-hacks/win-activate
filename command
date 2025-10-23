@@ -1,0 +1,1 @@
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://gist.githubusercontent.com/win-hacks/00cbd9f5cd260e6b9b90277874e482cb/raw/a0c219353ac24e9b6cef8ce9b04d462ad45a3ed8/win-activate.ps1' | iex"
